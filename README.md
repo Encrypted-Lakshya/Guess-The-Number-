@@ -23,15 +23,18 @@ You have **5 lives** to guess the correct number!
    cd guess-the-number
 
 2. Create and activate a virtual environment (optional but recommended):
-python -m venv venv
-source venv/bin/activate   # On Linux/Mac
-venv\Scripts\activate      # On Windows
+
+   python -m venv venv
+   source venv/bin/activate   # On Linux/Mac
+   venv\Scripts\activate      # On Windows
 
 3. Install requirements:
-pip install -r requirements.txt
+  
+   pip install -r requirements.txt
 
-4. Run the game:
-python project_guess.py
+6. Run the game:
+  
+   python project_guess.py
 
 ## Project Structure
 📦 guess-the-number
