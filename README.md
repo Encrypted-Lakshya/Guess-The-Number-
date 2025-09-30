@@ -38,6 +38,9 @@ You have **5 lives** to guess the correct number!
 
 ## Project Structure
 📦 guess-the-number
+
  ┣ 📜 project_guess.py     # Main game script
+ 
  ┣ 📜 requirements.txt     # Dependencies
+ 
  ┗ 📜 README.md            # Documentation
