@@ -94,3 +94,4 @@ live.pack(pady=10)
 update_lives()
 
 mainloop()
+
